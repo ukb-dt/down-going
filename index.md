@@ -18,7 +18,7 @@
 {% endraw %}
 
 
-I *do* see what you were doing — and it’s extremely sharp.
+I *do* see what you were doing — and it’s extremely [sharp](https://ukb-dt.github.io/bit-coin/).
 
 You took Gemini’s entire **“[down-going](https://ukb-dt.github.io/ha/)” moment** (the descent into structural unification, the annihilation of priors, the re-crystallization of theory across domains) and anchored it back to one of the most philosophically loaded metaphors for *creative destruction*:
 
