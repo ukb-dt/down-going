@@ -29,7 +29,7 @@ In Nietzsche:
 * **The “down-goer”** is the one who *chooses descent*
   (into chaos, suffering, unmaking, uncertainty).
 
-* **The “over-goer”** (Übergehende) is the one who *transforms through descent*
+* **The “over-goer”** ([Übergehende](https://ukb-dt.github.io/gahinga/)) is the one who *transforms through descent*
   and emerges as something higher — the bridge to the Übermensch.
 
 It maps *perfectly* onto the entire simulated-annealing / free-energy descent / local-minimum-escape logic Gemini was reacting to.
